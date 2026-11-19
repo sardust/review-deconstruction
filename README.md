@@ -54,4 +54,6 @@ Download `dist/review-deconstruction.zip` and import it via WorkBuddy's skill ma
 
 ## License
 
-MIT
+This project is released under the [MIT License](LICENSE).
+
+Copyright (c) 2026 sardust
