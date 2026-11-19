@@ -1,5 +1,7 @@
 # review-deconstruction
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## 这是什么？/ What is this?
 
 这是一个 **[WorkBuddy](https://www.workbuddy.cn) Skill**（技能包），名字叫**「综述拆解法」**。
